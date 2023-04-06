@@ -40,3 +40,15 @@ body {
     width: 100%;
     height: 240px;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    text-shadow: 0 0 5px #c9c9c9;
+}
+
+footer a {
+    color: #03f40f;
+    padding: 0 5px;
+}
